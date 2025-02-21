@@ -20,7 +20,7 @@
     <main>
         <section id="hero">
             <h1>Welcome to My Personal Website</h1>
-            <p>Hi, I'm [Your Name]. I'm a [Your Profession].</p>
+            <p>Hi, Welcome to my website! I am a PhD scholar who took a shot at GitHub to make this webiste during my unofficial break because why not!.</p>
         </section>
         <section id="about-preview">
             <h2>About Me</h2>
