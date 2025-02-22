@@ -1,0 +1,59 @@
+body {
+    background-color: #add8e6; /* Hex code for light blue */
+    color: rgb(51, 51, 51); /* RGB code for dark gray */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: hsl(0, 0%, 20%); /* HSL code for dark gray */
+    color: white;
+    text-align: center;
+    padding: 2em 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 1em;
+}
+
+.profile-pic {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin-bottom: 1em;
+}
+
+h1 {
+    margin: 0.5em 0 0.2em;
+}
+
+h2 {
+    color: #333; /* Hex code for dark gray */
+    margin-bottom: 0.5em;
+}
+
+p {
+    line-height: 1.6;
+}
+
+main {
+    padding: 2em 0;
+}
+
+section {
+    background-color: #fff; /* Hex code for white */
+    margin: 1em 0;
+    padding: 2em;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* RGBA code for semi-transparent black */
+}
+
+footer {
+    background-color: #333; /* Hex code for dark gray */
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+}
