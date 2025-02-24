@@ -1,4 +1,4 @@
-body {
+ody {
     background-color: #add8e6; /* Hex code for light blue */
     color: rgb(51, 51, 51); /* RGB code for dark gray */
     font-family: Arial, sans-serif;
@@ -7,10 +7,9 @@ body {
 }
 
 header {
-    background-color: hsl(0, 0%, 20%); /* HSL code for dark gray */
+    background-color: #add8e6;
     color: white;
     text-align: center;
-    padding: 2em 0;
 }
 
 .container {
@@ -20,9 +19,9 @@ header {
 }
 
 .profile-pic {
-    border-radius: 50%;
-    width: 150px;
-    height: 150px;
+    border-radius: 0;
+    width: 200px;
+    height: 200px;
     object-fit: cover;
     margin-bottom: 1em;
 }
@@ -45,15 +44,11 @@ main {
 }
 
 section {
-    background-color: #fff; /* Hex code for white */
-    margin: 1em 0;
-    padding: 2em;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* RGBA code for semi-transparent black */
+    background-color: #add8e6;
 }
 
 footer {
-    background-color: #333; /* Hex code for dark gray */
+    background-color:#add8e6;
     color: white;
     text-align: center;
-    padding: 1em 0;
 }
